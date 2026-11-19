@@ -4,7 +4,7 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=l3gh&amp;hide_rank=true&amp;hide_border=true&amp;show_icons=true&amp;bg_color=171717&amp;title_color=f5f5f5&amp;text_color=d4d4d4&amp;icon_color=a3a3a3" alt="l3gh's GitHub statistics" />
-  <img height="180" src="https://wsrv.nl/?url=https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3Dl3gh%26layout%3Dcompact%26hide_border%3Dtrue%26bg_color%3D171717%26title_color%3Df5f5f5%26text_color%3Dd4d4d4%26disable_animations%3Dtrue&amp;filt=greyscale&amp;output=png" alt="l3gh's most used languages" />
+  <img height="180" src="https://wsrv.nl/?url=https%3A%2F%2Fgithub-profile-summary-cards.vercel.app%2Fapi%2Fcards%2Frepos-per-language%3Fusername%3Dl3gh%26theme%3Ddefault%26bg_color%3D171717%26title_color%3Df5f5f5%26text_color%3Dd4d4d4%26border_color%3D171717&amp;filt=greyscale&amp;output=png" alt="l3gh's top languages by repository" />
 </p>
 
 <p align="center">
